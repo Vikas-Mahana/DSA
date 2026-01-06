@@ -19,6 +19,7 @@ This repository contains solutions to various DSA problems that I solved during 
 
 This repository includes problems from the following topics:
 
+- Understand Time Complexity: (Identify any program's time complexity in 15 sec)
 - Arrays
 - Strings
 - Linked Lists
@@ -32,10 +33,6 @@ This repository includes problems from the following topics:
 - Graphs
 - Greedy Algorithms
 - Dynamic Programming
-- Bit Manipulation
 
----
-
-## 🗂️ Repository Structure
 
 
