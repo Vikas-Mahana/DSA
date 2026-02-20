@@ -1,7 +1,5 @@
 This repository includes problems from the following topics:
 
-
-
 * Arrays and strings
 * Hashmaps and sets
 * Linked lists
