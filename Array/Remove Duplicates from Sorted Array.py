@@ -10,6 +10,8 @@ The first k elements of nums should contain the unique numbers in sorted order.
 The remaining elements beyond index k - 1 can be ignored.
 """
 
+from typing import List
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if not nums:
