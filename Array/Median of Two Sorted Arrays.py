@@ -5,7 +5,7 @@ return the median of the two sorted arrays.
 The overall run time complexity should be O(log (m+n)).
 """
 
-from ast import List
+from typing import List
 
 
 class Solution:
@@ -14,7 +14,7 @@ class Solution:
         merged = []
         i, j = 0, 0
         
-        while i < len(nums1) and j < len(nums2):
+        while i < len(nums1) and j < len(nums2): # type: ignore
             if nums1[i] < nums2[j]:
                 merged.append(nums1[i])
                 i += 1
